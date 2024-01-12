@@ -1,0 +1,1 @@
+This is a small and simple frontend project where I create a format for CV or resume using html and css. 
